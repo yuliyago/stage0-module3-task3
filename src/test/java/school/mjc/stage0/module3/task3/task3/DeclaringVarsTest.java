@@ -1,4 +1,4 @@
-package school.mjc.stage0.module3.task3;
+package school.mjc.stage0.module3.task3.task3;
 
 import com.github.javaparser.ast.CompilationUnit;
 import com.github.javaparser.ast.body.VariableDeclarator;
